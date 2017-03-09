@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "eyeq_leek:blocks/leeks_stage_0"
+  }
+}

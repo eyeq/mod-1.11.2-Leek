@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "eyeq_leek:leeks"
+    },
+    "facing=east": {
+      "model": "eyeq_leek:leeks_wall"
+    },
+    "facing=south": {
+      "model": "eyeq_leek:leeks_wall",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "eyeq_leek:leeks_wall",
+      "y": 180
+    },
+    "facing=north": {
+      "model": "eyeq_leek:leeks_wall",
+      "y": 270
+    }
+  }
+}

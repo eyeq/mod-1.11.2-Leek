@@ -1,0 +1,6 @@
+{
+  "parent": "block/torch_wall",
+  "textures": {
+    "torch": "eyeq_leek:blocks/leeks_stage_3"
+  }
+}
